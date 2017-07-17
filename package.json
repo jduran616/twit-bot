@@ -1,0 +1,23 @@
+{
+  "name": "twit-bot",
+  "version": "1.0.0",
+  "description": "Twitter API Test Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jduran616/jduran616/twit-bot"
+  },
+  "keywords": [
+    "twitter",
+    "api",
+    "node.js"
+  ],
+  "author": "Jaime Duran",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
